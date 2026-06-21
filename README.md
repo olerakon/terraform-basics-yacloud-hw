@@ -1,4 +1,4 @@
-<img width="937" height="248" alt="image" src="https://github.com/user-attachments/assets/b00cd2be-8e36-4bfd-b15d-a1cd87556fae" /># Домашнее задание к занятию «Основы Terraform. Yandex Cloud» - `Гилельс К.М.`
+# Домашнее задание к занятию «Основы Terraform. Yandex Cloud» - `Гилельс К.М.`
 
 ### Цели задания
 
